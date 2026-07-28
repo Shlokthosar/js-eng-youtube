@@ -27,6 +27,9 @@
 // let str3= str1+str2
 // console.log(str3);
 
-let value=100
-value++;
-console.log(value);
+// let value=100
+// value++;
+// console.log(value);
+
+console.log("1"+2+2);
+console.log(1+2+"2");
