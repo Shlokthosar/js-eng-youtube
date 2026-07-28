@@ -9,6 +9,6 @@
   //let apple=Boolean(loggedIn)
   //console.log(apple);
 
-let someNumber=23
-let banana=String(someNumber)
+let sNumber=23
+let banana=String(sNumber)
 console.log(banana);
