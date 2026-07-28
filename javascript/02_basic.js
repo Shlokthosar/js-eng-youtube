@@ -1,6 +1,7 @@
 
 //let state= undefined nothing given
 let age=292
+let state;
 
 //primitive data types
 // Different data types
@@ -11,3 +12,4 @@ let age=292
 //undefined
 //symbol-unique
 console.log(typeof age);
+console.log(typeof undefined);
